@@ -13,8 +13,8 @@ import GoF.strategyPattern.simDuck.behavior.QuackBehavior;
  */
 public abstract class Duck {
 
-    private FlyBehavior flyBehavior;
-    private QuackBehavior quackBehavior;
+    FlyBehavior flyBehavior;
+    QuackBehavior quackBehavior;
 
     public Duck(){}
 

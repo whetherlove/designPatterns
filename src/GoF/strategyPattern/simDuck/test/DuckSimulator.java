@@ -1,9 +1,12 @@
-package GoF.strategyPattern.test;
+package GoF.strategyPattern.simDuck.test;
 
 import GoF.strategyPattern.simDuck.behavior.impl.FlyRocketPowered;
 import GoF.strategyPattern.simDuck.entity.Duck;
 import GoF.strategyPattern.simDuck.entity.MallardDuck;
 import GoF.strategyPattern.simDuck.entity.ModelDuck;
+
+import java.util.ArrayList;
+import java.util.HashSet;
 
 /**
  * @ProjectName: designPatterns
@@ -26,5 +29,6 @@ public class DuckSimulator {
         modelDuck.performFly();
         modelDuck.setFlyBehavior(new FlyRocketPowered());
         modelDuck.performFly();
+        
     }
 }

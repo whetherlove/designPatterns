@@ -20,10 +20,10 @@ Java 设计模式
       [工厂方法（Factory Method）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/factoryPattern/pizzaStore/factoryMethod)/
       [抽象工厂（Abstract Factory）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/factoryPattern/pizzaStore/abstractFactory)<br />
 &emsp;工厂模式将对象创建的过程封装起来，以便将代码从具体类解耦合。<br />
-&emsp;工厂方法定义了一个创建对象的接口，但由子类决定要实例化的类是哪一个。工厂方法让类把实例化推迟到子类。<br />
+&emsp;工厂方法模式定义了一个创建对象的接口，但由子类决定要实例化的类是哪一个。工厂方法让类把实例化推迟到子类。<br />
 &emsp;抽象工厂模式提供一个接口，用于创建相关或依赖对象的家族，而不需要明确指定具体类。<br /><br />
 &emsp;[单例模式（Singleton Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/singletonPattern)<br />
-&emsp;策略模式定义了算法族，分别封装起来，让他们之间可以互相替换。此模式让算法的变化独立于使用算法的客户。<br /><br />
+&emsp;单例模式。<br /><br />
 
 ### 复合设计模式
   

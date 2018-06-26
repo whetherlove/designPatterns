@@ -20,7 +20,9 @@ Java 设计模式
       [工厂方法（Factory Method）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/decoratorPattern)/
       [抽象工厂（Abstract Factory）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/decoratorPattern)
 <br />
-&emsp;工厂模式将对象创建的过程封装起来，以便将代码从具体类解耦合。<br /><br />
+&emsp;工厂模式将对象创建的过程封装起来，以便将代码从具体类解耦合。<br />
+&emsp;工厂方法使用继承，把对象的创建委托给子类，子类实现工厂方法来创建对象。<br />
+&emsp;抽象工厂使用对象组合，对象的创建被实现在工厂接口所暴露出来的方法中。<br /><br />
 
 ### 复合设计模式
   

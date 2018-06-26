@@ -16,9 +16,9 @@ Java 设计模式
 &emsp;观察者模式在对象之间定义一对多依赖（松耦合），当一个对象改变状态，依赖他的所有对象都会接到通知，并自动更新。<br /><br />
 &emsp;[装饰者模式（Decorator Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/decoratorPattern)<br />
 &emsp;装饰者模式动态的将责任附加到对象上。若要扩展功能能，其提供了比继承更有弹性的替代方案。<br /><br />
-&emsp;[简单/静态工厂模式（Simple/Static Factory Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/decoratorPattern)/
-      [工厂方法模式（Factory Method Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/decoratorPattern)/
-      [抽象工厂模式（Abstract Factory Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/decoratorPattern)
+&emsp;[简单/静态工厂（Simple/Static Factory）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/decoratorPattern)/
+      [工厂方法（Factory Method）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/decoratorPattern)/
+      [抽象工厂（Abstract Factory）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/decoratorPattern)
 <br />
 &emsp;工厂模式将对象创建的过程封装起来，以便将代码从具体类解耦合。<br /><br />
 

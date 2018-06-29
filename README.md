@@ -2,7 +2,7 @@ Java 设计模式
 ==========
 
 >此项目为本人对Java常用设计模式的总结，主要参考《Head First Design Patterns》一书，预计7月份更完。。。</br>
->[官方网站](http://wickedlysmart.com/head-first-design-patterns/)&ensp;[官方代码下载](https://codeload.github.com/bethrobson/Head-First-Design-Patterns/zip/master)
+>[Head First 官方网站](http://wickedlysmart.com/head-first-design-patterns/)&ensp;[官方代码下载](https://codeload.github.com/bethrobson/Head-First-Design-Patterns/zip/master)
 
 
 
@@ -36,7 +36,5 @@ Java 设计模式
 ### 复合设计模式
   
 
-
-### 企业设计模式
 
 

@@ -24,6 +24,13 @@ Java 设计模式
 &emsp;抽象工厂模式提供一个接口，用于创建相关或依赖对象的家族，而不需要明确指定具体类。<br /><br />
 &emsp;[单例模式（Singleton Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/singletonPattern)<br />
 &emsp;单例模式确保一个类只有一个实例，并提供一个全局访问点。<br /><br />
+&emsp;[命令模式（Command Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/commandPattern)<br />
+&emsp;命令模式将请求封装成对象，这可以让你使用不同的请求，队列或者日志请求来参数化其他对象。<br />
+&emsp;命令模式可用来实现事物或日志系统。<br /><br />
+&emsp;[适配器模式（Adapter Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/adapterPattern)<br />
+&emsp;适配器模式将一个类的接口，转换成客户期望的另一个接口。适配器让原本接口不兼容的类可以合作无间<br /><br />
+&emsp;[外观模式（Facade Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/adapterPattern)<br />
+&emsp;外观模式确保一个类只有一个实例，并提供一个全局访问点。<br /><br />
 
 ### 复合设计模式
   

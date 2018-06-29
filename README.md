@@ -27,6 +27,10 @@ Java 设计模式
 &emsp;[命令模式（Command Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/commandPattern)<br />
 &emsp;命令模式将请求封装成对象，这可以让你使用不同的请求，队列或者日志请求来参数化其他对象。<br />
 &emsp;命令模式可用来实现事物或日志系统。<br /><br />
+&emsp;[适配器模式（Adapter Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/adapterPattern)<br />
+&emsp;适配器模式确保一个类只有一个实例，并提供一个全局访问点。<br /><br />
+&emsp;[外观模式（Facade Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/adapterPattern)<br />
+&emsp;外观模式确保一个类只有一个实例，并提供一个全局访问点。<br /><br />
 
 ### 复合设计模式
   

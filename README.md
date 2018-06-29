@@ -2,7 +2,7 @@ Java 设计模式
 ==========
 
 >此项目为本人对Java常用设计模式的总结，主要参考《Head First Design Patterns》一书，预计7月份更完。。。</br>
->[官方网站](http://wickedlysmart.com/head-first-design-patterns/)&ensp;[官方代码下载](https://codeload.github.com/bethrobson/Head-First-Design-Patterns/zip/master)
+>[Head First 官方网站](http://wickedlysmart.com/head-first-design-patterns/)&ensp;[官方代码下载](https://codeload.github.com/bethrobson/Head-First-Design-Patterns/zip/master)
 
 
 
@@ -29,13 +29,12 @@ Java 设计模式
 &emsp;命令模式可用来实现事物或日志系统。<br /><br />
 &emsp;[适配器模式（Adapter Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/adapterPattern)<br />
 &emsp;适配器模式将一个类的接口，转换成客户期望的另一个接口。适配器让原本接口不兼容的类可以合作无间<br /><br />
-&emsp;[外观模式（Facade Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/adapterPattern)<br />
-&emsp;外观模式确保一个类只有一个实例，并提供一个全局访问点。<br /><br />
+&emsp;[外观模式（Facade Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/facadePattern)<br />
+&emsp;外观模式提供了一个统一的接口，用来访问子系统中的一群接口。外观定义了一个高层接口，让子系统更容易使用。<br />
+&emsp;注：外观模式并没有封装子系统类，只提供简化的接口，若有需要，客户仍可直接调用子系统。<br /><br />
 
 ### 复合设计模式
   
 
-
-### 企业设计模式
 
 

@@ -28,10 +28,12 @@ Java 设计模式
 &emsp;命令模式将请求封装成对象，这可以让你使用不同的请求，队列或者日志请求来参数化其他对象。<br />
 &emsp;命令模式可用来实现事物或日志系统。<br /><br />
 &emsp;[适配器模式（Adapter Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/adapterPattern)<br />
-&emsp;适配器模式将一个类的接口，转换成客户期望的另一个接口。适配器让原本接口不兼容的类可以合作无间<br /><br />
+&emsp;适配器模式将一个类的接口，转换成客户期望的另一个接口。适配器让原本接口不兼容的类可以合作无间。<br /><br />
 &emsp;[外观模式（Facade Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/facadePattern)<br />
 &emsp;外观模式提供了一个统一的接口，用来访问子系统中的一群接口。外观定义了一个高层接口，让子系统更容易使用。<br />
 &emsp;注：外观模式并没有封装子系统类，只提供简化的接口，若有需要，客户仍可直接调用子系统。<br /><br />
+&emsp;[模板方法模式（Template Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/templatePattern)<br />
+&emsp;模板方法模式在一个方法中定义一个算法的骨架，而将一些步骤延迟到子类中。模板方法可以使子类不改变算法结构的情况下，重新定义算法的某些步骤。<br /><br />
 
 ### 复合设计模式
   

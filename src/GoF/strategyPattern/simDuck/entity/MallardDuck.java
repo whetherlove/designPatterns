@@ -3,6 +3,8 @@ package GoF.strategyPattern.simDuck.entity;
 import GoF.strategyPattern.simDuck.behavior.impl.FlyWithWings;
 import GoF.strategyPattern.simDuck.behavior.impl.Quack;
 
+import java.util.Iterator;
+
 /**
  * @ProjectName: designPatterns
  * @Package: GoF.strategyPattern.simDuck.entity

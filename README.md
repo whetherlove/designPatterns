@@ -37,7 +37,7 @@ Java 设计模式
 &emsp;模板方法可以使子类不改变算法结构的情况下，重新定义算法的某些步骤。<br /><br />
 &emsp;[状态模式（State Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/statePattern)<br />
 &emsp;状态模式允许对象在内部状态改变时改变它的行为，对象看起来好像修改了它的类。<br />
-&emsp;将每个状态的行为局部化到它自己的类中，可以使各个状态对修改关闭，但装个系统对扩展开放<br /><br />
+&emsp;将每个状态的行为局部化到它自己的类中，可以使各个状态对修改关闭，但装个系统对扩展开放。<br /><br />
 
 ### 复合设计模式
   

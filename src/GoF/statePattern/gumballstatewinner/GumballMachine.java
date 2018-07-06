@@ -7,6 +7,8 @@ public class GumballMachine {
 	State hasQuarterState;
 	State soldState;
 	State winnerState;
+
+	String location;
  
 	State state = soldOutState;
 	int count = 0;
@@ -48,7 +50,7 @@ public class GumballMachine {
 		}
 	}
  
-	int getCount() {
+	public int getCount() {
 		return count;
 	}
  
@@ -93,5 +95,9 @@ public class GumballMachine {
 		result.append("\n");
 		result.append("Machine is " + state + "\n");
 		return result.toString();
+	}
+
+	public String getLocation() {
+		return location;
 	}
 }

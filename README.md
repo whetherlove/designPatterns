@@ -38,9 +38,11 @@ Java 设计模式
 &emsp;[状态模式（State Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/statePattern)<br />
 &emsp;状态模式允许对象在内部状态改变时改变它的行为，对象看起来好像修改了它的类。<br />
 &emsp;将每个状态的行为局部化到它自己的类中，可以使各个状态对修改关闭，但装个系统对扩展开放。<br /><br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[更多GoF模式（More Patterns）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/commandPattern)<br />
 
 ### 复合设计模式
-  
+&emsp;[MVC（Model,View,Controller）设计模式](https://github.com/whetherlove/designPatterns/tree/master/src/compoundPatterns/mvc)<br />
+&emsp;MVC设计模式包含策略，观察者及组合模式。MVC将业务逻辑、数据、界面显示分离的方法组织代码，将业务逻辑聚集到一个部件里面，在改进和个性化定制界面及用户交互的同时，不需要重新编写业务逻辑。<br /><br />
 
 
 

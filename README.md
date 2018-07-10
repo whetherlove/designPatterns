@@ -38,6 +38,8 @@ Java 设计模式
 &emsp;[状态模式（State Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/statePattern)<br />
 &emsp;状态模式允许对象在内部状态改变时改变它的行为，对象看起来好像修改了它的类。<br />
 &emsp;将每个状态的行为局部化到它自己的类中，可以使各个状态对修改关闭，但装个系统对扩展开放。<br /><br />
+&emsp;[桥接模式（Bridge Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/bridgePattern)<br />
+&emsp;桥接模式分离抽象接口及其实现部分。提高了系统的可扩充性，在两个变化维度中任意扩展一个维度，都不需要修改原有系统。<br /><br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[更多GoF模式（More Patterns）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/commandPattern)<br />
 
 ### 复合设计模式

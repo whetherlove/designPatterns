@@ -40,7 +40,7 @@ Java 设计模式
 &emsp;将每个状态的行为局部化到它自己的类中，可以使各个状态对修改关闭，但装个系统对扩展开放。<br /><br />
 &emsp;[桥接模式（Bridge Pattern）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/bridgePattern)<br />
 &emsp;桥接模式分离抽象接口及其实现部分。提高了系统的可扩充性，在两个变化维度中任意扩展一个维度，都不需要修改原有系统。<br /><br />
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[更多GoF模式（More Patterns）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/morePattern)<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[更多GoF模式（More Patterns）](https://github.com/whetherlove/designPatterns/tree/master/src/GoF/morePatterns)<br />
 
 ### 复合设计模式
 &emsp;[MVC（Model,View,Controller）设计模式](https://github.com/whetherlove/designPatterns/tree/master/src/compoundPatterns/mvc)<br />
